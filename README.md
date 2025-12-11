@@ -1,0 +1,1 @@
+# base.module.options.provider.checkbox
